@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey y’all! 👋
 
-<!--
-**ishikagupta19/ishikagupta19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An energetic student pursuing B.Tech degree in Electronics & Communication Engineering with unique and innovative perceptions. Very enthusiastic about learning new technologies.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Web Developer.
+- 🌱 I’m currently learning C++.
+- 🔭 I’m looking to collaborate on Web Development projects.
+- 👯 I'm looking to collaborate on social impact projects too.
+- 🤔 I’m looking to help people who are starting their new journey as Web Developer.
+- 💬 Ask me about anything as I am passionate about technology.
+- 📫 How to reach me: Reach me through LinkedIn.
+- 😄 Pronouns: Ingenious and Creative
+- ⚡ Fun fact: The bravest thing I've ever done was buying a laptop.
+
