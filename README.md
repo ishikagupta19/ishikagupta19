@@ -1,4 +1,4 @@
-![MasterHead]("C:\Users\hp\Downloads\Dr. Han Mitchl Ph.D. from the Hawkford University.png")
+![MasterHead](https://www.canva.com/design/DAFHu50zqfc/view)
 
 <h1 align="center">Hey y'all! 👋, I'm Ishika Gupta</h1>
 
