@@ -1,4 +1,4 @@
-![MasterHead]![Dr  Han Mitchl Ph D  from the Hawkford University](https://user-images.githubusercontent.com/83855992/182108323-6cd0bdb5-4afd-4531-8383-f124745c4637.png)
+![Dr  Han Mitchl Ph D  from the Hawkford University](https://user-images.githubusercontent.com/83855992/182108323-6cd0bdb5-4afd-4531-8383-f124745c4637.png)
 
 <h1 align="center">Hey y'all! 👋, I'm Ishika Gupta</h1>
 
